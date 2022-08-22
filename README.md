@@ -19,13 +19,27 @@ We encourage the research community to extend these algorithms to other similar 
 ## Citation
 If you use this data/code for your work, please consider citing the following article:
 ```
+@inproceedings{biswas2020incorporating,
+  title={Incorporating domain knowledge into Memetic Algorithms for solving Spatial Optimization problems},
+  author={Biswas, Subhodip and Chen, Fanglan and Chen, Zhiqian and Lu, Chang-Tien and Ramakrishnan, Naren},
+  booktitle={Proceedings of the 28th International Conference on Advances in Geographic Information Systems},
+  pages={25--35},
+  year={2020}
+}
 
-@phdthesis{biswas2022phd,
-  title={Spatial Optimization Techniques for School Redistricting},
-  author={Biswas, Subhodip},
-  year={2022},
-  school={Virginia Tech},
-  url={http://hdl.handle.net/10919/110433}
+@article{biswas2022memetic,
+author = {Biswas, Subhodip and Chen, Fanglan and Chen, Zhiqian and Lu, Chang-Tien and Ramakrishnan, Naren},
+title = {Memetic Algorithms for Spatial Partitioning Problems},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {2374-0353},
+url = {https://doi.org/10.1145/3544779},
+doi = {10.1145/3544779},
+note = {Just Accepted},
+journal = {ACM Trans. Spatial Algorithms Syst.},
+month = {May},
+keywords = {Redistricting, Metaheuristic, Spatial Optimization}
 }
 ```
 ## Note
