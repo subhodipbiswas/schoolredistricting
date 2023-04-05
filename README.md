@@ -30,16 +30,19 @@ If you use this data/code for your work, please consider citing the following ar
 @article{biswas2022memetic,
 author = {Biswas, Subhodip and Chen, Fanglan and Chen, Zhiqian and Lu, Chang-Tien and Ramakrishnan, Naren},
 title = {Memetic Algorithms for Spatial Partitioning Problems},
-year = {2022},
+year = {2023},
+issue_date = {March 2023},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
+volume = {9},
+number = {1},
 issn = {2374-0353},
 url = {https://doi.org/10.1145/3544779},
 doi = {10.1145/3544779},
-note = {Just Accepted},
-journal = {ACM Trans. Spatial Algorithms Syst.},
-month = {May},
-keywords = {Redistricting, Metaheuristic, Spatial Optimization}
+month = {jan},
+articleno = {5},
+numpages = {31},
+keywords = {redistricting, Metaheuristic, spatial optimization}
 }
 ```
 ## Note
